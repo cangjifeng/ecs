@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @since 2021/5/19 22:48
  */
 @SpringBootApplication
-public class BootStrop {
+public class BootStrap {
 
 
     /**
@@ -16,6 +16,6 @@ public class BootStrop {
      * @param args start param
      */
     public static void main(String[] args) {
-        SpringApplication.run(BootStrop.class, args);
+        SpringApplication.run(BootStrap.class, args);
     }
 }
